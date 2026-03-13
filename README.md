@@ -243,13 +243,3 @@ Plan card renewal strategies
 "👨‍💻 Author"
 
 Ajay Kukreti
-
-Aspiring Data Analyst.
-
-Excel Analytics
-
-Business Intelligence
-
-Data Visualization
-
-Financial Data Analysis
