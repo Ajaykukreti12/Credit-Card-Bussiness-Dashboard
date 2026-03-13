@@ -240,7 +240,14 @@ Track credit risk distribution
 Plan card renewal strategies
 
 
+
+"Googel Drive Link" - 
+
+https://drive.google.com/drive/folders/1RySEXPcLe292-VAcVb0TrFeDz-cAIxaA?usp=drive_link
+
+
+
+
 "👨‍💻 Author"
 
 Ajay Kukreti
-Link - https://drive.google.com/drive/folders/1RySEXPcLe292-VAcVb0TrFeDz-cAIxaA?usp=drive_link
