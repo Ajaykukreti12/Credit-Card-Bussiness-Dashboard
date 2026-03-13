@@ -246,6 +246,11 @@ Plan card renewal strategies
 https://drive.google.com/drive/folders/1RySEXPcLe292-VAcVb0TrFeDz-cAIxaA?usp=drive_link
 
 
+## Disclaimer
+
+This project is created for educational and portfolio purposes only.  
+The dataset used in this project is publicly available and does not represent any real bank or financial institution.
+
 
 
 "👨‍💻 Author"
